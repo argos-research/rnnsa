@@ -1,0 +1,8 @@
+cond_42
+cond_mod
+hey
+idle
+linpack
+namaste
+pi
+tumatmul
